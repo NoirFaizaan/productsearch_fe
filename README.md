@@ -76,7 +76,6 @@ node --version
 - Add advanced filtering options (e.g., price range, categories).
 
 
-```markdown
 ## Running Test Cases
 
 ### Prerequisites
